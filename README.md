@@ -7,7 +7,7 @@
 
 <h3 align="center"> 
   <samp>
-    「 Tony Zhang 」
+    「 Nikolas Vahlas 」
     <br>
     「 UBC Computer Science 」
     <br>
