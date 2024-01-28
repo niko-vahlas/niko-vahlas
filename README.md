@@ -10,5 +10,6 @@
 - 💬 Ask me about anything related to technology
 - 📫 How to reach me: nikolasvahlas@nikolasvahlas.com
 - 😄 Pronouns: he/him/his
-- 🚀 Check out my [Portfolio](www.nikolasvahlas.com)
+- 🚀 Check out my [Portfolio](https://www.nikolasvahlas.com)
+
 
